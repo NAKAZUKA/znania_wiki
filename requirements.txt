@@ -1,0 +1,5 @@
+re
+flask
+pprint
+ruwordnet
+werkzeug
